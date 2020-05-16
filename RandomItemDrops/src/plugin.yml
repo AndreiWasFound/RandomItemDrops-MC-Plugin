@@ -1,0 +1,8 @@
+main: me.AndreiWasFound.RandomItemDrops.Main
+name: RandomItemDrops
+version: 1.0
+author: AndreiWasFound
+api-version: 1.13
+
+commands:
+  randomitemdrops:

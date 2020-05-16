@@ -1,0 +1,18 @@
+reload:
+  message:
+    - "&a&1The plugin has been reloaded."
+
+blocks:
+  DIRT:
+    - DIRT
+    - DIRT
+    - DIRT
+    - DIAMOND
+    - STONE
+    - GRASS
+    - IRON_INGOT
+    - GOLD_INGOT
+  SAND:
+    - DIRT
+    - FLINT
+    - COAL
